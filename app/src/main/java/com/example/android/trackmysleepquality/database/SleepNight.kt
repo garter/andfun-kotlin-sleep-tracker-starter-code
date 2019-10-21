@@ -33,5 +33,4 @@ data class SleepNight(
 
         @ColumnInfo(name = "quality_rating")
         var sleepQuality: Int = -1
-
 )
